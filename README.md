@@ -1,4 +1,4 @@
 # Insertion Sorter
 
-Refer to: file:///C:/website/markharvey.info/des/insertsort/insertsort.html
+Refer to: http://www.markharvey.info/des/insertsort/insertsort.html
 
